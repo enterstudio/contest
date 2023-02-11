@@ -1,4 +1,4 @@
-ipython==2.4.1
+ipython==8.10.0
 numpy==1.9.1
 scipy==0.14.0
 pandas==0.15.2
